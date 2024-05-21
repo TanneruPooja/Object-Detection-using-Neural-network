@@ -2,7 +2,8 @@
 
 To Develop a Neural Network for recognizing certain objects
 
-Abstract
+Abstract :
+
 The widespread use of digital imagery and machine learning technology has contributed
 in the development of improving precise and effective better object identification systems. The
 main objective of our project is to create an image classification model for deep learning neural
